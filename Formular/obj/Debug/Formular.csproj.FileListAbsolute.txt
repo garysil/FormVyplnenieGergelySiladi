@@ -1,0 +1,9 @@
+c:\users\client\documents\visual studio 2015\Projects\Formular\Formular\bin\Debug\Formular.exe.config
+c:\users\client\documents\visual studio 2015\Projects\Formular\Formular\bin\Debug\Formular.exe
+c:\users\client\documents\visual studio 2015\Projects\Formular\Formular\bin\Debug\Formular.pdb
+c:\users\client\documents\visual studio 2015\Projects\Formular\Formular\obj\Debug\Formular.csprojResolveAssemblyReference.cache
+c:\users\client\documents\visual studio 2015\Projects\Formular\Formular\obj\Debug\Formular.Form1.resources
+c:\users\client\documents\visual studio 2015\Projects\Formular\Formular\obj\Debug\Formular.Properties.Resources.resources
+c:\users\client\documents\visual studio 2015\Projects\Formular\Formular\obj\Debug\Formular.csproj.GenerateResource.Cache
+c:\users\client\documents\visual studio 2015\Projects\Formular\Formular\obj\Debug\Formular.exe
+c:\users\client\documents\visual studio 2015\Projects\Formular\Formular\obj\Debug\Formular.pdb
